@@ -1,1 +1,1 @@
-Realized by alexdaube and JulienDuchesne.
+Contribution by alexdaube and JulienDuchesne.
